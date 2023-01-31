@@ -1,0 +1,23 @@
+{
+  "name": "@vinoddotcom/with-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nuxt.config.ts",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "publishConfig": {
+    "@vinoddotcom:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "nuxt": "^3.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
