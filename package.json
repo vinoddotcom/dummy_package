@@ -1,5 +1,5 @@
 {
-  "name": "@vinoddotcom/with-workflow",
+  "name": "@vinoddotcom/dummy_package",
   "version": "1.0.0",
   "description": "",
   "main": "nuxt.config.ts",
